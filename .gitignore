@@ -1,0 +1,5 @@
+# pycharm files
+.idea/
+
+# environment files
+/envs/
